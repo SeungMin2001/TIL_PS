@@ -1,6 +1,4 @@
 # Today I Learned 🔥
- - 최소 30분 이상 고민🔥
- - 풀이과정 및 느낌점 기록🔥
- - 수학문제 풀듯이 풀기🔥
-
- 
+- Think deeply for at least 30 minutes. 🔥
+- Write down the process and how you feel about it. 🔥
+- Tackle it like solving a math problem. 🔥

@@ -35,8 +35,8 @@ y1,y2=run(a-1)
 
 print(dp[x1]+x2-(dp[y1]+y2))
 ```
-<img src=''>
-<br><br>
+<img src='https://github.com/SeungMin2001/TIL_PS/blob/main/Algorithm_Study/IMG_0092.jpeg' width="400" height="500">
+
 
 <h1>느낀점</h1>
 매우 수학적인 문제였다. 오랜만에 수학문제 푸는 느낌이 났던 문제
